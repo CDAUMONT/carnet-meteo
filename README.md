@@ -8,3 +8,6 @@ chmod +x releve.sh
 ./releve.sh Compiegne 12
 cat releves.txt
 git status
+
+
+Clarence
